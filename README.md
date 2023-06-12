@@ -1,10 +1,9 @@
-# readme_github
-My description in github with contacts and further information
+# 🎯 About me
+
+I'm a junior backend developer that have experience with languages how PHP, Java, JavaScript and more
 
 
-# Lenguajes
-
-
+# 💻 Languages
 
 <p align="center">
   <img src="" alt="" />&nbsp;&nbsp;
@@ -21,11 +20,10 @@ My description in github with contacts and further information
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" alt="Excel" />&nbsp;&nbsp;
 </p>
 
 
-# Estadisticas de github
+# 📊 Statistics' github
 
 <p align="center">
   
